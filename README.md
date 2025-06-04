@@ -79,15 +79,8 @@ Puedes ejecutar cada archivo individualmente para ver el comportamiento correspo
 ```bash
 python 1-Responsabilidad_unica.py
 python 2-Principio_abiertoCerrado.py
-...
+python 3-Principio_de_sustitucion_liskov.py
+python 4-Principio_segregacion_interfaces.py
+python 5-Principio_inversion_dependencias.py
 
----
-### 👨‍💻 Autor y Créditos
-
-Este repositorio fue realizado por **[Javier-Rivera2311](https://github.com/Javier-Rivera2311)** como parte del seguimiento a los retos de programación del roadmap de [**@mouredev**](https://github.com/mouredev/roadmap-retos-programacion).
-
-📌 Fuente original del reto:  
-👉 [github.com/mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion)
-
-Este trabajo tiene fines **educativos y prácticos**, demostrando cómo aplicar los principios SOLID utilizando el lenguaje Python.
 
