@@ -81,7 +81,8 @@ python 1-Responsabilidad_unica.py
 python 2-Principio_abiertoCerrado.py
 ...
 
-## 👨‍💻 Autor y Créditos
+---
+### 👨‍💻 Autor y Créditos
 
 Este repositorio fue realizado por **[Javier-Rivera2311](https://github.com/Javier-Rivera2311)** como parte del seguimiento a los retos de programación del roadmap de [**@mouredev**](https://github.com/mouredev/roadmap-retos-programacion).
 
